@@ -1,0 +1,1 @@
+ymaps.ready(function(){var e=new ymaps.Map("map",{center:[45.0443,38.941],zoom:16}),a=new ymaps.Placemark([45.0433,38.9442],{hintContent:"Nёrds"},{iconLayout:"default#image",iconImageHref:"https://copy.com/7zTcw02xZP9X0DyM",iconImageSize:[231,190],iconImageOffset:[-49,-195]});e.geoObjects.add(a)});
